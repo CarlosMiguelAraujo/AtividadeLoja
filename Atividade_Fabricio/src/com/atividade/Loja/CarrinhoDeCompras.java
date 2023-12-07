@@ -1,5 +1,8 @@
-package com.atividade.Loja;
+package com.atividade.loja;
+import java.util.ArrayList;
 
-public class CarrinhoDeCompras {
-
+ public class CarrinhoDeCompra {
+  ArrayList <ItensDoCarrinho> carrinho = new ArrayList<>();
+	 
+	 
 }
